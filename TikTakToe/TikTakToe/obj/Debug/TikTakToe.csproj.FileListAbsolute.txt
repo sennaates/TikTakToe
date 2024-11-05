@@ -1,0 +1,10 @@
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe.config
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\bin\Debug\TikTakToe.exe
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\bin\Debug\TikTakToe.pdb
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csprojAssemblyReference.cache
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.Form1.resources
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.Properties.Resources.resources
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.GenerateResource.cache
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.csproj.CoreCompileInputs.cache
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.exe
+C:\Users\Sena Ateş\source\repos\TikTakToe\TikTakToe\obj\Debug\TikTakToe.pdb
